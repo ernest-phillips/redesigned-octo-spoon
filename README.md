@@ -2,8 +2,6 @@
 Python test repo
 
 ```python
-def my你好世界(name):
-  print "hello", name
-  return;
- 
+name = "Jim"
+my你好世界(name) 
 ```
